@@ -1,0 +1,71 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.Frame2 {max-width:112px; max-height:36px; }
+.Frame2::after {content: '\00a0';display: inline-block; width:112px; height:36px; background-position: 97.01657458563535% 85.04672897196262%;background-size: 908.0357142857143% 1288.888888888889%;background-image: url(slot_machine.png);padding: 0; }
+div.Frame2::after {max-width:112px; width:100%;height:0;padding: 0 0 32.142857142857146% 0;}
+.Frame3 {max-width:311px; max-height:36px; }
+.Frame3::after {content: '\00a0';display: inline-block; width:311px; height:36px; background-position: 0% 85.74766355140187%;background-size: 327.0096463022508% 1288.888888888889%;background-image: url(slot_machine.png);padding: 0; }
+div.Frame3::after {max-width:311px; width:100%;height:0;padding: 0 0 11.57556270096463% 0;}
+.Frame5 {max-width:141px; max-height:36px; }
+.Frame5::after {content: '\00a0';display: inline-block; width:141px; height:36px; background-position: 35.50228310502283% 85.74766355140187%;background-size: 721.2765957446809% 1288.888888888889%;background-image: url(slot_machine.png);padding: 0; }
+div.Frame5::after {max-width:141px; width:100%;height:0;padding: 0 0 25.53191489361702% 0;}
+.SPIN_Stop_Collect_Exit_but0001 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0001::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 100% 0%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0001::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0002 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0002::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 100% 12.62135922330097%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0002::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0003 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0003::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 100% 25.24271844660194%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0003::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0004 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0004::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 100% 37.86407766990291%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0004::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0006 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0006::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 100% 50.48543689320388%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0006::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0007 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0007::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 100% 63.10679611650485%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0007::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0008 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0008::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 100% 75.72815533980582%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0008::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0009 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0009::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 0% 97.81553398058253%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0009::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0011 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0011::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 15.831435079726651% 97.81553398058253%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0011::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0012 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0012::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 31.662870159453302% 97.81553398058253%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0012::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0013 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0013::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 51.48063781321184% 89.07766990291262%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0013::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.SPIN_Stop_Collect_Exit_but0014 {max-width:139px; max-height:52px; }
+.SPIN_Stop_Collect_Exit_but0014::after {content: '\00a0';display: inline-block; width:139px; height:52px; background-position: 67.3120728929385% 89.07766990291262%;background-size: 731.6546762589928% 892.3076923076923%;background-image: url(slot_machine.png);padding: 0; }
+div.SPIN_Stop_Collect_Exit_but0014::after {max-width:139px; width:100%;height:0;padding: 0 0 37.410071942446045% 0;}
+.lnkAllSymbol0002 {max-width:125px; max-height:116px; }
+.lnkAllSymbol0002::after {content: '\00a0';display: inline-block; width:125px; height:116px; background-position: 84.4170403587444% 0%;background-size: 813.6% 400%;background-image: url(slot_machine.png);padding: 0; }
+div.lnkAllSymbol0002::after {max-width:125px; width:100%;height:0;padding: 0 0 92.8% 0;}
+.lnkAllSymbol0003 {max-width:125px; max-height:116px; }
+.lnkAllSymbol0003::after {content: '\00a0';display: inline-block; width:125px; height:116px; background-position: 84.4170403587444% 33.333333333333336%;background-size: 813.6% 400%;background-image: url(slot_machine.png);padding: 0; }
+div.lnkAllSymbol0003::after {max-width:125px; width:100%;height:0;padding: 0 0 92.8% 0;}
+.lnkAllSymbol0004 {max-width:125px; max-height:116px; }
+.lnkAllSymbol0004::after {content: '\00a0';display: inline-block; width:125px; height:116px; background-position: 84.4170403587444% 66.66666666666667%;background-size: 813.6% 400%;background-image: url(slot_machine.png);padding: 0; }
+div.lnkAllSymbol0004::after {max-width:125px; width:100%;height:0;padding: 0 0 92.8% 0;}
+.lnkAllSymbol0007 {max-width:125px; max-height:116px; }
+.lnkAllSymbol0007::after {content: '\00a0';display: inline-block; width:125px; height:116px; background-position: 84.4170403587444% 100%;background-size: 813.6% 400%;background-image: url(slot_machine.png);padding: 0; }
+div.lnkAllSymbol0007::after {max-width:125px; width:100%;height:0;padding: 0 0 92.8% 0;}
+.tutorial {max-width:753px; max-height:367px; }
+.tutorial::after {content: '\00a0';display: inline-block; width:753px; height:367px; background-position: 0% 0%;background-size: 135.0597609561753% 126.43051771117166%;background-image: url(slot_machine.png);padding: 0; }
+div.tutorial::after {max-width:753px; width:100%;height:0;padding: 0 0 48.73837981407703% 0;}
+
+/* $TexturePacker:SmartUpdate:13112426425cad2799eeb158a8616f4e:8887902ed46f22d78f674132e07bfe26:979c8da98aac0f493f0fb2b96cdc90ad$ */
